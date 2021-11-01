@@ -1,0 +1,4 @@
+#Mon Nov 01 18:56:05 UZT 2021
+base.0=C\:\\Projects\\shared_perfens\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
